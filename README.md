@@ -1,9 +1,9 @@
 # capstone-project
 ## MACHINE LEARNING ENGINEER NANODEGREE
 
-To achieve my aim, I used the following steps in solving an image classification problem with PyTorch: Load the dataset from MNIST fashion website Creating a validation dataset from train data, creating separate folders for train, valid and test dataset Loading the datasets to s3 and performing job training on a preprocessed dataset with pytorch on AWS sagemaker Performing debugging and profiling Creating inference and prediction
+I used the following steps in solving an image classification problem with PyTorch: Load the dataset from MNIST fashion website Creating a validation dataset from train data, creating separate folders for train, valid and test dataset Loading the datasets to s3 and performing job training on a preprocessed dataset with pytorch on AWS sagemaker Performing debugging and profiling Creating inference and prediction
 
-The dataset can be loaded with pytorch from here https://pytorch.org/vision/stable/datasets.html#fashion-mnist
+The dataset waas gotten from pytorch  https://pytorch.org/vision/stable/datasets.html#fashion-mnist
 
 Different pretrained models were tried with different hyperparameter tuning to achieve a good result based on accuracy.
 
