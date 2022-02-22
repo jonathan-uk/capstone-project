@@ -7,8 +7,6 @@ The dataset waas gotten from pytorch  https://pytorch.org/vision/stable/datasets
 
 Included in this repository are:
 
-The jupyter notebooks(data_images.ipynb and tune_train_deploy.ipynb) where run all my codes for this project
-
 The profiler report made after training the model
 
 The code used in calculating the mean and standard deviation of the dataset(mean_and_std.ipynb)
