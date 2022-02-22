@@ -9,8 +9,6 @@ Included in this repository are:
 
 The jupyter notebooks(data_images.ipynb and tune_train_deploy.ipynb) where run all my codes for this project
 
-The python scripts used as entry_points for training and deploying endpoints(fm_hpo.py, fm_model.py and fm_inference.py) located in the python_scripts folder
-
 The profiler report made after training the model
 
 The code used in calculating the mean and standard deviation of the dataset(mean_and_std.ipynb)
